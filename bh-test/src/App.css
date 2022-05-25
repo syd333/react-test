@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;700&display=swap');
+
+.App {
+  color: black;
+  padding-top: 10%;
+  background: #E1E0E0;
+  padding-bottom: 100%;
+}
+
+.header {
+  font-family: 'Roboto', sans-serif;
+  font-size: 32px;
+  font-weight:700;
+  color: #EF8354;
+  
+}
+
+li {
+list-style: none;
+}
+
+ /* Card  */
+.card {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  width: 20rem;
+  background-color: #4F5D75;
+
+}
+.card-title {
+  color: white;
+    font-size: 18px;
+    font-weight: 700;
+      font-family: 'Roboto',sans-serif;
+       text-align: center;
+}
+
+.card-body {
+  color: white;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+
+.cardGroup {
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+
+/* form */
+.form {
+padding-top: 5%;
+}
+
+.form-text {
+    font-size: 18px;
+  color: #EF8354;
+    font-weight: 700;
+    font-family: 'Roboto',sans-serif;
+    padding-bottom: 2%;
+}
+
+.input {
+  text-align: center;
+  color: white;
+}
+
+#input {
+    background: #4F5D75;
+    border-radius: 10px;
+    padding: 5px;
+    color: white;
+}
+.text {
+  text-align: center;
+  color: white;
+}
+
+#textarea {
+    background: #4F5D75;
+    border-radius: 10px;
+    padding: 2%;
+    color: white;
+}
+
+.button {
+    text-align: center;
+}
+
+#button{
+    background: #4F5D75;
+    border-radius: 10px;
+    width: 15%;
+    color: white;
+    padding: 3px;
+}
